@@ -64,3 +64,6 @@ input[type="submit"] {
 input#sizeBox {
    width: 240px;
 }
+input{
+   margin: 4.2px;
+}
